@@ -1,3 +1,0 @@
-# Potential IT New Theme 
-
-
