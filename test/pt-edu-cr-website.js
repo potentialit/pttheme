@@ -1,1 +1,231 @@
-function d(a,b){const e=c();d=function(f,g){f=f-0x1ec;let h=e[f];return h;};return d(a,b);}const N=d;(function(a,b){const M=d;const e=a();while(!![]){try{const f=parseInt(M(0x223))/0x1*(-parseInt(M(0x20d))/0x2)+parseInt(M(0x210))/0x3*(parseInt(M(0x218))/0x4)+parseInt(M(0x213))/0x5*(-parseInt(M(0x1f2))/0x6)+-parseInt(M(0x20f))/0x7+parseInt(M(0x1ee))/0x8+-parseInt(M(0x224))/0x9+parseInt(M(0x1f8))/0xa*(parseInt(M(0x201))/0xb);if(f===b){break;}else{e['push'](e['shift']());}}catch(g){e['push'](e['shift']());}}}(c,0xedcd2));document['addEventListener'](N(0x215),async()=>{const O=N;const a=document[O(0x219)](O(0x21d));for(let b=0x0;b<0x6;b++){const f=document['createElement'](O(0x1ec));f[O(0x220)]=O(0x200);const g=document[O(0x20b)](O(0x1ec));g[O(0x220)]=O(0x21a);const h=document[O(0x20b)]('p');h['className']='text-center\x20fs-6\x20font-weight-semibold\x20mb-0',h['textContent']='৫\x20সেকেন্ডে\x20অপেক্ষা\x20করুন...',g[O(0x21b)](h),f['appendChild'](g),a[O(0x21b)](f);}try{const i=await fetch(O(0x1f7)+encodeURIComponent('https://thedailycampus.com/'));if(!i['ok'])throw new Error(O(0x204));const j=await i[O(0x1f4)](),k=[...new DOMParser()[O(0x20e)](j,'text/html')['querySelectorAll'](O(0x1f9))]['slice'](0x0,0x6)[O(0x21e)](l=>l['innerText']);a['innerHTML']=k[O(0x1f1)]?k['map'](l=>'\x0a\x20\x20\x20\x20\x20\x20<div\x20class=\x22col-md-6\x20mb-3\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22example-ads\x20hover-text-primary\x20px-2\x20py-1\x20border\x20border-danger\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20class=\x22text-center\x20fs-6\x20font-weight-semibold\x20mb-0\x22>'+l+O(0x1ed))[O(0x1f3)](''):'<p\x20style=\x22text-align:center;font-weight:bold;\x22>আপনার\x20জন্য\x20প্রয়োজনীয়\x20কোন\x20নিউজ\x20পাচ্ছি\x20না!</p>';}catch(l){a['innerHTML']=O(0x222);}});function c(){const V=['getElementById','example-ads\x20hover-text-primary\x20px-2\x20py-1\x20border\x20border-danger','appendChild','cqoqaursVLQBekraefvKiewxyZfWdZzJMT.blUogUZIdaspFfqUqotY.NcKoXmSOCHHjDTThqnhZWZA','result','map','location','className','getElementsByClassName','<p\x20style=\x22text-align:center;font-weight:bold;\x22>আপনার\x20জন্য\x20প্রয়োজনীয়\x20কোন\x20নিউজ\x20পাচ্ছি\x20না!</p>','388658HcqSTk','8617770QrzgPZ','div','</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20','4433792sHPIGG','documentElement','forEach','length','30YrYiLv','join','text','return\x20(function()\x20','about:blank#chor','https://api.allorigins.win/raw?url=','36469270JSYsQa','h1,\x20h2','https://www.potentialit.xyz/theme','data-templateName','split','addEventListener','head','https://cdn.jsdelivr.net/npm/@splidejs/splide@3.6.12/dist/js/splide.min.js','col-md-6\x20mb-3','11DYhXrm','script','{}.constructor(\x22return\x20this\x22)(\x20)','Network\x20response\x20was\x20not\x20ok','getAttribute','slice','mount','data-templateUrl','charCodeAt','data-templateVersion','createElement','indexOf','4eJVPkS','parseFromString','13508915kNFTaE','93iyitpJ','src','[qqaVLQBkafKZfWdZJMTUUZIdaFfqUqYNKXSOCHHjDTThqnhZWZA]','1016915qeWIOR','v3.1','DOMContentLoaded','onload','Potential\x20Blogger\x20Theme','187676nhluMG'];c=function(){return V;};return c();}function loadJS(a,b){const P=N;var e=document[P(0x20b)](P(0x202));e[P(0x211)]=a;e[P(0x216)]=b;document[P(0x1fe)][P(0x21b)](e);}document[N(0x1fd)](N(0x215),function(){const Q=N;loadJS(Q(0x1ff),function(){const R=Q;Array['from'](document[R(0x221)]('splide'))[R(0x1f0)](a=>new Splide(a)[R(0x207)]());});});(function(){const U=N;const e=(function(){let i=!![];return function(j,k){const l=i?function(){if(k){const m=k['apply'](j,arguments);k=null;return m;}}:function(){};i=![];return l;};}());const f=e(this,function(){const S=d;let j;try{const y=Function(S(0x1f5)+S(0x203)+');');j=y();}catch(z){j=window;}const k=new RegExp(S(0x212),'g');const l=S(0x21c)['replace'](k,'')[S(0x1fc)](';');let m;let n;let o;let p;const q=function(A,B,C){const T=S;if(A[T(0x1f1)]!=B){return![];}for(let D=0x0;D<B;D++){for(let E=0x0;E<C['length'];E+=0x2){if(D==C[E]&&A[T(0x209)](D)!=C[E+0x1]){return![];}}}return!![];};const r=function(A,B,C){return q(B,C,A);};const s=function(A,B,C){return r(B,A,C);};const t=function(A,B,C){return s(B,C,A);};for(let A in j){if(q(A,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){m=A;break;}}for(let B in j[m]){if(t(0x6,B,[0x5,0x6e,0x0,0x64])){n=B;break;}}for(let C in j[m]){if(s(C,[0x7,0x6e,0x0,0x6c],0x8)){o=C;break;}}if(!('~'>n)){for(let D in j[m][o]){if(r([0x7,0x65,0x0,0x68],D,0x8)){p=D;break;}}}if(!m||!j[m]){return;}const u=j[m][n];const v=!!j[m][o]&&j[m][o][p];const w=u||v;if(!w){return;}let x=![];for(let E=0x0;E<l[S(0x1f1)];E++){const F=l[E];const G=F[0x0]===String['fromCharCode'](0x2e)?F[S(0x206)](0x1):F;const H=w['length']-G[S(0x1f1)];const I=w[S(0x20c)](G,H);const J=I!==-0x1&&I===H;if(J){if(w[S(0x1f1)]==F[S(0x1f1)]||F[S(0x20c)]('.')===0x0){x=!![];}}}if(!x){const K=new RegExp('[VrQiUirZycLJsXgcAdXWTJOJdVj]','g');const L='aboutVr:QblainUirZkycLJsXgcAdXWTJOJdVj'['replace'](K,'');j[m][o]=L;}});f();var g=document[U(0x1ef)];if(g[U(0x205)](U(0x1fb))!==U(0x217)||g[U(0x205)](U(0x20a))!==U(0x214)||g[U(0x205)](U(0x208))!==U(0x1fa)){window[U(0x21f)]['href']=U(0x1f6);}}());
+const N = d;
+(function (a, b) {
+    const M = d, e = a();
+    while (!![]) {
+        try {
+            const f = parseInt(M(0x12a)) / 0x1 + -parseInt(M(0x122)) / 0x2 + -parseInt(M(0x11d)) / 0x3 * (-parseInt(M(0x10b)) / 0x4) + -parseInt(M(0x119)) / 0x5 + parseInt(M(0x110)) / 0x6 + -parseInt(M(0x118)) / 0x7 * (parseInt(M(0x108)) / 0x8) + parseInt(M(0x128)) / 0x9;
+            if (f === b)
+                break;
+            else
+                e['push'](e['shift']());
+        } catch (g) {
+            e['push'](e['shift']());
+        }
+    }
+}(c, 0x3d21e), document['addEventListener'](N(0x11b), async () => {
+    const O = N, a = document['getElementById'](O(0x131));
+    for (let b = 0x0; b < 0x6; b++) {
+        const f = document[O(0x117)](O(0x115));
+        f[O(0x10d)] = 'col-md-6\x20mb-3';
+        const g = document[O(0x117)](O(0x115));
+        g[O(0x10d)] = O(0x11f);
+        const h = document[O(0x117)]('p');
+        h['className'] = 'text-center\x20fs-6\x20font-weight-semibold\x20mb-0', h[O(0x126)] = O(0x10c), g['appendChild'](h), f[O(0x113)](g), a[O(0x113)](f);
+    }
+    try {
+        const i = await fetch(O(0x111) + encodeURIComponent(O(0x112)));
+        if (!i['ok'])
+            throw new Error(O(0x136));
+        const j = await i[O(0x12e)](), k = [...new DOMParser()[O(0x135)](j, 'text/html')[O(0x11a)]('h1,\x20h2')]['slice'](0x0, 0x6)[O(0x120)](l => l['innerText']);
+        a[O(0x121)] = k[O(0x139)] ? k[O(0x120)](l => O(0x11c) + l + O(0x133))[O(0x13e)]('') : O(0x12c);
+    } catch (l) {
+        a[O(0x121)] = O(0x12c);
+    }
+}));
+function loadJS(a, b) {
+    const P = N;
+    var e = document[P(0x117)]('script');
+    e[P(0x129)] = a, e[P(0x123)] = b, document[P(0x125)][P(0x113)](e);
+}
+function d(a, b) {
+    const e = c();
+    return d = function (f, g) {
+        f = f - 0x106;
+        let h = e[f];
+        return h;
+    }, d(a, b);
+}
+function c() {
+    const W = [
+        '522594nDJrZe',
+        'https://api.allorigins.win/raw?url=',
+        'https://thedailycampus.com/',
+        'appendChild',
+        'from',
+        'div',
+        'about:blank#chor',
+        'createElement',
+        '6881lulKGN',
+        '948070PXcMpk',
+        'querySelectorAll',
+        'DOMContentLoaded',
+        '\x0a\x20\x20\x20\x20\x20\x20<div\x20class=\x22col-md-6\x20mb-3\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22example-ads\x20hover-text-primary\x20px-2\x20py-1\x20border\x20border-danger\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20class=\x22text-center\x20fs-6\x20font-weight-semibold\x20mb-0\x22>',
+        '3lFWSia',
+        'documentElement',
+        'example-ads\x20hover-text-primary\x20px-2\x20py-1\x20border\x20border-danger',
+        'map',
+        'innerHTML',
+        '178744suVTqD',
+        'onload',
+        'split',
+        'head',
+        'textContent',
+        'indexOf',
+        '1257795ecLuxl',
+        'src',
+        '276191kRSRjE',
+        'data-templateVersion',
+        '<p\x20style=\x22text-align:center;font-weight:bold;\x22>আপনার\x20জন্য\x20প্রয়োজনীয়\x20কোন\x20নিউজ\x20পাচ্ছি\x20না!</p>',
+        'Potential\x20Blogger\x20Theme',
+        'text',
+        'replace',
+        'charCodeAt',
+        'result',
+        'WabGIout:blaFInksmqSUEHWTMLsifZRIBFBMrfUCZ',
+        '</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20',
+        'data-templateUrl',
+        'parseFromString',
+        'Network\x20response\x20was\x20not\x20ok',
+        'slice',
+        'data-templateName',
+        'length',
+        'fromCharCode',
+        'https://cdn.jsdelivr.net/npm/@splidejs/splide@3.6.12/dist/js/splide.min.js',
+        'return\x20(function()\x20',
+        'href',
+        'join',
+        'AcoursnWWPherhhevBiewdJIdxMyzj.bDlFEoLdNgJXqspoIt.YTOfDOPXcRoKmHPNPXEGYkCUaqRKVYd',
+        'location',
+        '[AnWWPhhhBdJIdMjDFELdNJXqIYTOfDOPXRKHPNPXEGYkCUaqRKVYd]',
+        'https://www.potentialit.xyz/theme',
+        '832DvRnag',
+        'getAttribute',
+        'apply',
+        '514284WMjHJu',
+        '৫\x20সেকেন্ডে\x20অপেক্ষা\x20করুন...',
+        'className',
+        'v3.1',
+        'addEventListener'
+    ];
+    c = function () {
+        return W;
+    };
+    return c();
+}
+document[N(0x10f)](N(0x11b), function () {
+    const Q = N;
+    loadJS(Q(0x13b), function () {
+        const R = Q;
+        Array[R(0x114)](document['getElementsByClassName']('splide'))['forEach'](a => new Splide(a)['mount']());
+    });
+}), (function () {
+    const V = N, e = (function () {
+            let i = !![];
+            return function (j, k) {
+                const l = i ? function () {
+                    const S = d;
+                    if (k) {
+                        const m = k[S(0x10a)](j, arguments);
+                        return k = null, m;
+                    }
+                } : function () {
+                };
+                return i = ![], l;
+            };
+        }()), f = e(this, function () {
+            const T = d;
+            let j;
+            try {
+                const y = Function(T(0x13c) + '{}.constructor(\x22return\x20this\x22)(\x20)' + ');');
+                j = y();
+            } catch (z) {
+                j = window;
+            }
+            const k = new RegExp(T(0x106), 'g'), l = T(0x13f)[T(0x12f)](k, '')[T(0x124)](';');
+            let m, n, o, p;
+            const q = function (A, B, C) {
+                    const U = T;
+                    if (A[U(0x139)] != B)
+                        return ![];
+                    for (let D = 0x0; D < B; D++) {
+                        for (let E = 0x0; E < C[U(0x139)]; E += 0x2) {
+                            if (D == C[E] && A[U(0x130)](D) != C[E + 0x1])
+                                return ![];
+                        }
+                    }
+                    return !![];
+                }, r = function (A, B, C) {
+                    return q(B, C, A);
+                }, s = function (A, B, C) {
+                    return r(B, A, C);
+                }, t = function (A, B, C) {
+                    return s(B, C, A);
+                };
+            for (let A in j) {
+                if (q(A, 0x8, [
+                        0x7,
+                        0x74,
+                        0x5,
+                        0x65,
+                        0x3,
+                        0x75,
+                        0x0,
+                        0x64
+                    ])) {
+                    m = A;
+                    break;
+                }
+            }
+            for (let B in j[m]) {
+                if (t(0x6, B, [
+                        0x5,
+                        0x6e,
+                        0x0,
+                        0x64
+                    ])) {
+                    n = B;
+                    break;
+                }
+            }
+            for (let C in j[m]) {
+                if (s(C, [
+                        0x7,
+                        0x6e,
+                        0x0,
+                        0x6c
+                    ], 0x8)) {
+                    o = C;
+                    break;
+                }
+            }
+            if (!('~' > n))
+                for (let D in j[m][o]) {
+                    if (r([
+                            0x7,
+                            0x65,
+                            0x0,
+                            0x68
+                        ], D, 0x8)) {
+                        p = D;
+                        break;
+                    }
+                }
+            if (!m || !j[m])
+                return;
+            const u = j[m][n], v = !!j[m][o] && j[m][o][p], w = u || v;
+            if (!w)
+                return;
+            let x = ![];
+            for (let E = 0x0; E < l[T(0x139)]; E++) {
+                const F = l[E], G = F[0x0] === String[T(0x13a)](0x2e) ? F[T(0x137)](0x1) : F, H = w['length'] - G['length'], I = w[T(0x127)](G, H), J = I !== -0x1 && I === H;
+                J && ((w[T(0x139)] == F[T(0x139)] || F[T(0x127)]('.') === 0x0) && (x = !![]));
+            }
+            if (!x) {
+                const K = new RegExp('[WGIFIsmqSUEHWTMLsifZRIBFBMrfUCZ]', 'g'), L = T(0x132)[T(0x12f)](K, '');
+                j[m][o] = L;
+            }
+        });
+    f();
+    var g = document[V(0x11e)];
+    (g[V(0x109)](V(0x138)) !== V(0x12d) || g['getAttribute'](V(0x12b)) !== V(0x10e) || g[V(0x109)](V(0x134)) !== V(0x107)) && (window[V(0x140)][V(0x13d)] = V(0x116));
+}());
